@@ -1,2 +1,2 @@
-# mPDFCodeigniter
+# mPDF Codeigniter
 Using mPDF with Codeigniter
